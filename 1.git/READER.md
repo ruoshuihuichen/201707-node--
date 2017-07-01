@@ -1,2 +1,2 @@
-·¢²¼¾²Ì¬Ò³  github
+github
 gh-pages
